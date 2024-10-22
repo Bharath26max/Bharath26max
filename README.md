@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Bharath26max
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+Coding Questions
 
 
 <!---
